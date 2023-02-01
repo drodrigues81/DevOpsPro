@@ -5,3 +5,5 @@ Somente a primeira linha para teste
 Novo teste replicação manual
 
 Nova replica
+
+NOva linha feita pelo GitHub
