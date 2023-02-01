@@ -1,0 +1,7 @@
+Teste Teste
+
+Esse arquivo é só de teste
+
+ALteração para versão 1.0
+Alteração para versão 2.0
+#Isso é só um texto para 2.0
